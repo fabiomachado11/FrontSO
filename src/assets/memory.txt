@@ -1,0 +1,1960 @@
+Processo 1:
+  Total de memória alocada: 173629440 bytes
+  Páginas de memória:
+    Total: 42390
+    Código: 3396
+    Heap: 2050
+    Stack: 10
+
+Processo 10:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1025:
+  Total de memória alocada: 251174912 bytes
+  Páginas de memória:
+    Total: 61322
+    Código: 1704
+    Heap: 1500
+    Stack: 19
+
+Processo 11:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1101:
+  Total de memória alocada: 315281408 bytes
+  Páginas de memória:
+    Total: 76973
+    Código: 4579
+    Heap: 3846
+    Stack: 39
+
+Processo 1109:
+  Total de memória alocada: 260014080 bytes
+  Páginas de memória:
+    Total: 63480
+    Código: 3149
+    Heap: 2232
+    Stack: 22
+
+Processo 11822:
+  Total de memória alocada: 2711191552 bytes
+  Páginas de memória:
+    Total: 661912
+    Código: 48427
+    Heap: 23597
+    Stack: 151
+
+Processo 12:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 13:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1305:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1357:
+  Total de memória alocada: 179347456 bytes
+  Páginas de memória:
+    Total: 43786
+    Código: 2846
+    Heap: 2477
+    Stack: 30
+
+Processo 1360:
+  Total de memória alocada: 12763136 bytes
+  Páginas de memória:
+    Total: 3116
+    Código: 105
+    Heap: 0
+    Stack: 3
+
+Processo 1362:
+  Total de memória alocada: 12763136 bytes
+  Páginas de memória:
+    Total: 3116
+    Código: 115
+    Heap: 0
+    Stack: 3
+
+Processo 14:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 140:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1423:
+  Total de memória alocada: 332496896 bytes
+  Páginas de memória:
+    Total: 81176
+    Código: 2469
+    Heap: 2044
+    Stack: 29
+
+Processo 1427:
+  Total de memória alocada: 20025344 bytes
+  Páginas de memória:
+    Total: 4889
+    Código: 2802
+    Heap: 2044
+    Stack: 10
+
+Processo 1428:
+  Total de memória alocada: 173641728 bytes
+  Páginas de memória:
+    Total: 42393
+    Código: 738
+    Heap: 0
+    Stack: 10
+
+Processo 1434:
+  Total de memória alocada: 162873344 bytes
+  Páginas de memória:
+    Total: 39764
+    Código: 3972
+    Heap: 1998
+    Stack: 1
+
+Processo 1437:
+  Total de memória alocada: 274300928 bytes
+  Páginas de memória:
+    Total: 66968
+    Código: 3805
+    Heap: 2539
+    Stack: 2
+
+Processo 1438:
+  Total de memória alocada: 45539328 bytes
+  Páginas de memória:
+    Total: 11118
+    Código: 3051
+    Heap: 1617
+    Stack: 1
+
+Processo 1444:
+  Total de memória alocada: 11386880 bytes
+  Páginas de memória:
+    Total: 2780
+    Código: 1671
+    Heap: 1085
+    Stack: 35
+
+Processo 1448:
+  Total de memória alocada: 257298432 bytes
+  Páginas de memória:
+    Total: 62817
+    Código: 2238
+    Heap: 1974
+    Stack: 142
+
+Processo 1449:
+  Total de memória alocada: 255180800 bytes
+  Páginas de memória:
+    Total: 62300
+    Código: 1903
+    Heap: 1647
+    Stack: 4
+
+Processo 1462:
+  Total de memória alocada: 389431296 bytes
+  Páginas de memória:
+    Total: 95076
+    Código: 1420
+    Heap: 1265
+    Stack: 6
+
+Processo 1480:
+  Total de memória alocada: 558596096 bytes
+  Páginas de memória:
+    Total: 136376
+    Código: 1767
+    Heap: 1561
+    Stack: 24
+
+Processo 1483:
+  Total de memória alocada: 402169856 bytes
+  Páginas de memória:
+    Total: 98186
+    Código: 1635
+    Heap: 1478
+    Stack: 8
+
+Processo 1489:
+  Total de memória alocada: 2703360 bytes
+  Páginas de memória:
+    Total: 660
+    Código: 245
+    Heap: 223
+    Stack: 4
+
+Processo 15:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1513:
+  Total de memória alocada: 726687744 bytes
+  Páginas de memória:
+    Total: 177414
+    Código: 5794
+    Heap: 3811
+    Stack: 14
+
+Processo 1520:
+  Total de memória alocada: 408010752 bytes
+  Páginas de memória:
+    Total: 99612
+    Código: 2223
+    Heap: 1758
+    Stack: 23
+
+Processo 1525:
+  Total de memória alocada: 251637760 bytes
+  Páginas de memória:
+    Total: 61435
+    Código: 1668
+    Heap: 1502
+    Stack: 10
+
+Processo 1529:
+  Total de memória alocada: 251834368 bytes
+  Páginas de memória:
+    Total: 61483
+    Código: 1612
+    Heap: 1414
+    Stack: 10
+
+Processo 1533:
+  Total de memória alocada: 331448320 bytes
+  Páginas de memória:
+    Total: 80920
+    Código: 1912
+    Heap: 1659
+    Stack: 9
+
+Processo 1538:
+  Total de memória alocada: 250925056 bytes
+  Páginas de memória:
+    Total: 61261
+    Código: 1466
+    Heap: 1341
+    Stack: 11
+
+Processo 1542:
+  Total de memória alocada: 576512000 bytes
+  Páginas de memória:
+    Total: 140750
+    Código: 3784
+    Heap: 3672
+    Stack: 6
+
+Processo 1544:
+  Total de memória alocada: 174874624 bytes
+  Páginas de memória:
+    Total: 42694
+    Código: 1471
+    Heap: 1350
+    Stack: 5
+
+Processo 1547:
+  Total de memória alocada: 237723648 bytes
+  Páginas de memória:
+    Total: 58038
+    Código: 3348
+    Heap: 2915
+    Stack: 35
+
+Processo 1561:
+  Total de memória alocada: 407601152 bytes
+  Páginas de memória:
+    Total: 99512
+    Código: 1746
+    Heap: 1715
+    Stack: 16
+
+Processo 16:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1603:
+  Total de memória alocada: 90390528 bytes
+  Páginas de memória:
+    Total: 22068
+    Código: 1256
+    Heap: 1102
+    Stack: 8
+
+Processo 1604:
+  Total de memória alocada: 102338560 bytes
+  Páginas de memória:
+    Total: 24985
+    Código: 1205
+    Heap: 1091
+    Stack: 1
+
+Processo 1606:
+  Total de memória alocada: 7757824 bytes
+  Páginas de memória:
+    Total: 1894
+    Código: 1145
+    Heap: 991
+    Stack: 31
+
+Processo 1616:
+  Total de memória alocada: 751026176 bytes
+  Páginas de memória:
+    Total: 183356
+    Código: 3973
+    Heap: 3221
+    Stack: 35
+
+Processo 1640:
+  Total de memória alocada: 316403712 bytes
+  Páginas de memória:
+    Total: 77247
+    Código: 1756
+    Heap: 1580
+    Stack: 3
+
+Processo 1642:
+  Total de memória alocada: 4621053952 bytes
+  Páginas de memória:
+    Total: 1128187
+    Código: 73988
+    Heap: 28126
+    Stack: 2
+
+Processo 1649:
+  Total de memória alocada: 9682944 bytes
+  Páginas de memória:
+    Total: 2364
+    Código: 1210
+    Heap: 999
+    Stack: 35
+
+Processo 17:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1723:
+  Total de memória alocada: 594087936 bytes
+  Páginas de memória:
+    Total: 145041
+    Código: 2655
+    Heap: 2655
+    Stack: 4
+
+Processo 1730:
+  Total de memória alocada: 1205850112 bytes
+  Páginas de memória:
+    Total: 294397
+    Código: 6571
+    Heap: 4610
+    Stack: 10
+
+Processo 1738:
+  Total de memória alocada: 160239616 bytes
+  Páginas de memória:
+    Total: 39121
+    Código: 1463
+    Heap: 1261
+    Stack: 9
+
+Processo 17414:
+  Total de memória alocada: 1123467264 bytes
+  Páginas de memória:
+    Total: 274284
+    Código: 6500
+    Heap: 2687
+    Stack: 4904
+
+Processo 1747:
+  Total de memória alocada: 845045760 bytes
+  Páginas de memória:
+    Total: 206310
+    Código: 4880
+    Heap: 4095
+    Stack: 11
+
+Processo 1756:
+  Total de memória alocada: 696766464 bytes
+  Páginas de memória:
+    Total: 170109
+    Código: 5590
+    Heap: 4752
+    Stack: 1
+
+Processo 1771:
+  Total de memória alocada: 331374592 bytes
+  Páginas de memória:
+    Total: 80902
+    Código: 1952
+    Heap: 1637
+    Stack: 6
+
+Processo 1786:
+  Total de memória alocada: 2726494208 bytes
+  Páginas de memória:
+    Total: 665648
+    Código: 5416
+    Heap: 4197
+    Stack: 2
+
+Processo 1788:
+  Total de memória alocada: 165941248 bytes
+  Páginas de memória:
+    Total: 40513
+    Código: 1698
+    Heap: 1519
+    Stack: 10
+
+Processo 1799:
+  Total de memória alocada: 2801664 bytes
+  Páginas de memória:
+    Total: 684
+    Código: 241
+    Heap: 217
+    Stack: 20
+
+Processo 1800:
+  Total de memória alocada: 326803456 bytes
+  Páginas de memória:
+    Total: 79786
+    Código: 1566
+    Heap: 1423
+    Stack: 2
+
+Processo 1802:
+  Total de memória alocada: 363675648 bytes
+  Páginas de memória:
+    Total: 88788
+    Código: 6302
+    Heap: 4235
+    Stack: 6
+
+Processo 1805:
+  Total de memória alocada: 331558912 bytes
+  Páginas de memória:
+    Total: 80947
+    Código: 2963
+    Heap: 1711
+    Stack: 26
+
+Processo 1806:
+  Total de memória alocada: 374878208 bytes
+  Páginas de memória:
+    Total: 91523
+    Código: 2800
+    Heap: 2472
+    Stack: 5
+
+Processo 1807:
+  Total de memória alocada: 328323072 bytes
+  Páginas de memória:
+    Total: 80157
+    Código: 1809
+    Heap: 1608
+    Stack: 6
+
+Processo 1809:
+  Total de memória alocada: 362774528 bytes
+  Páginas de memória:
+    Total: 88568
+    Código: 6186
+    Heap: 4148
+    Stack: 3
+
+Processo 1811:
+  Total de memória alocada: 547692544 bytes
+  Páginas de memória:
+    Total: 133714
+    Código: 7244
+    Heap: 4943
+    Stack: 25
+
+Processo 1813:
+  Total de memória alocada: 400965632 bytes
+  Páginas de memória:
+    Total: 97892
+    Código: 7131
+    Heap: 4777
+    Stack: 11
+
+Processo 1814:
+  Total de memória alocada: 264499200 bytes
+  Páginas de memória:
+    Total: 64575
+    Código: 2745
+    Heap: 2381
+    Stack: 5
+
+Processo 1815:
+  Total de memória alocada: 401985536 bytes
+  Páginas de memória:
+    Total: 98141
+    Código: 1499
+    Heap: 1349
+    Stack: 5
+
+Processo 1818:
+  Total de memória alocada: 250593280 bytes
+  Páginas de memória:
+    Total: 61180
+    Código: 1501
+    Heap: 1372
+    Stack: 2
+
+Processo 1820:
+  Total de memória alocada: 486137856 bytes
+  Páginas de memória:
+    Total: 118686
+    Código: 2296
+    Heap: 1914
+    Stack: 3
+
+Processo 1840:
+  Total de memória alocada: 404246528 bytes
+  Páginas de memória:
+    Total: 98693
+    Código: 1840
+    Heap: 1618
+    Stack: 10
+
+Processo 1847:
+  Total de memória alocada: 335867904 bytes
+  Páginas de memória:
+    Total: 81999
+    Código: 2180
+    Heap: 1911
+    Stack: 2
+
+Processo 1849:
+  Total de memória alocada: 363442176 bytes
+  Páginas de memória:
+    Total: 88731
+    Código: 6368
+    Heap: 4145
+    Stack: 3
+
+Processo 1850:
+  Total de memória alocada: 237240320 bytes
+  Páginas de memória:
+    Total: 57920
+    Código: 1519
+    Heap: 1183
+    Stack: 2
+
+Processo 1870:
+  Total de memória alocada: 822382592 bytes
+  Páginas de memória:
+    Total: 200777
+    Código: 10920
+    Heap: 6996
+    Stack: 5
+
+Processo 1889:
+  Total de memória alocada: 251863040 bytes
+  Páginas de memória:
+    Total: 61490
+    Código: 1780
+    Heap: 1633
+    Stack: 2
+
+Processo 1890:
+  Total de memória alocada: 368033792 bytes
+  Páginas de memória:
+    Total: 89852
+    Código: 7499
+    Heap: 4248
+    Stack: 19
+
+Processo 1894:
+  Total de memória alocada: 251777024 bytes
+  Páginas de memória:
+    Total: 61469
+    Código: 1683
+    Heap: 1629
+    Stack: 7
+
+Processo 19:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 191:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 193:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 195:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1955:
+  Total de memória alocada: 359297024 bytes
+  Páginas de memória:
+    Total: 87719
+    Código: 3016
+    Heap: 2559
+    Stack: 3
+
+Processo 196:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1966:
+  Total de memória alocada: 176386048 bytes
+  Páginas de memória:
+    Total: 43063
+    Código: 1905
+    Heap: 1666
+    Stack: 1
+
+Processo 197:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1973:
+  Total de memória alocada: 1050419200 bytes
+  Páginas de memória:
+    Total: 256450
+    Código: 3306
+    Heap: 2511
+    Stack: 91
+
+Processo 198:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 199:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 1995:
+  Total de memória alocada: 2650386432 bytes
+  Páginas de memória:
+    Total: 647067
+    Código: 5344
+    Heap: 4080
+    Stack: 2
+
+Processo 2:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 20:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 200:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 201:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 202:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 2028:
+  Total de memória alocada: 438472704 bytes
+  Páginas de memória:
+    Total: 107049
+    Código: 6555
+    Heap: 4347
+    Stack: 33
+
+Processo 2033:
+  Total de memória alocada: 78290944 bytes
+  Páginas de memória:
+    Total: 19114
+    Código: 2009
+    Heap: 1571
+    Stack: 51
+
+Processo 20767:
+  Total de memória alocada: 21024768 bytes
+  Páginas de memória:
+    Total: 5133
+    Código: 1118
+    Heap: 332
+    Stack: 25
+
+Processo 21:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 21168:
+  Total de memória alocada: 48992256 bytes
+  Páginas de memória:
+    Total: 11961
+    Código: 1500
+    Heap: 1324
+    Stack: 71
+
+Processo 2124:
+  Total de memória alocada: 394199040 bytes
+  Páginas de memória:
+    Total: 96240
+    Código: 5307
+    Heap: 2962
+    Stack: 51
+
+Processo 2172:
+  Total de memória alocada: 176959488 bytes
+  Páginas de memória:
+    Total: 43203
+    Código: 1970
+    Heap: 1456
+    Stack: 7
+
+Processo 22:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 2204:
+  Total de memória alocada: 333221888 bytes
+  Páginas de memória:
+    Total: 81353
+    Código: 2534
+    Heap: 1838
+    Stack: 4
+
+Processo 2228:
+  Total de memória alocada: 1204754558976 bytes
+  Páginas de memória:
+    Total: 294129531
+    Código: 36532
+    Heap: 24495
+    Stack: 30185
+
+Processo 2232:
+  Total de memória alocada: 34606112768 bytes
+  Páginas de memória:
+    Total: 8448758
+    Código: 8974
+    Heap: 6841
+    Stack: 30185
+
+Processo 2233:
+  Total de memória alocada: 34606104576 bytes
+  Páginas de memória:
+    Total: 8448756
+    Código: 8708
+    Heap: 6597
+    Stack: 30185
+
+Processo 2235:
+  Total de memória alocada: 34606104576 bytes
+  Páginas de memória:
+    Total: 8448756
+    Código: 2563
+    Heap: 435
+    Stack: 30185
+
+Processo 2249:
+  Total de memória alocada: 34381484032 bytes
+  Páginas de memória:
+    Total: 8393917
+    Código: 713
+    Heap: 641
+    Stack: 234
+
+Processo 2252:
+  Total de memória alocada: 694493184 bytes
+  Páginas de memória:
+    Total: 169554
+    Código: 23124
+    Heap: 14456
+    Stack: 400
+
+Processo 2265:
+  Total de memória alocada: 925634560 bytes
+  Páginas de memória:
+    Total: 225985
+    Código: 19534
+    Heap: 14586
+    Stack: 8
+
+Processo 228:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 2289:
+  Total de memória alocada: 285143040 bytes
+  Páginas de memória:
+    Total: 69615
+    Código: 6246
+    Heap: 4142
+    Stack: 18
+
+Processo 229:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 23:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 2306:
+  Total de memória alocada: 35043848192 bytes
+  Páginas de memória:
+    Total: 8555627
+    Código: 34304
+    Heap: 22410
+    Stack: 30185
+
+Processo 2316:
+  Total de memória alocada: 34674028544 bytes
+  Páginas de memória:
+    Total: 8465339
+    Código: 15164
+    Heap: 12498
+    Stack: 30185
+
+Processo 2361:
+  Total de memória alocada: 1217787219968 bytes
+  Páginas de memória:
+    Total: 297311333
+    Código: 87614
+    Heap: 30804
+    Stack: 30185
+
+Processo 2392:
+  Total de memória alocada: 34743693312 bytes
+  Páginas de memória:
+    Total: 8482347
+    Código: 10545
+    Heap: 8270
+    Stack: 30185
+
+Processo 25:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 25699:
+  Total de memória alocada: 2542047232 bytes
+  Páginas de memória:
+    Total: 620617
+    Código: 31305
+    Heap: 20726
+    Stack: 151
+
+Processo 25976:
+  Total de memória alocada: 11589435392 bytes
+  Páginas de memória:
+    Total: 2829452
+    Código: 97377
+    Heap: 23977
+    Stack: 151
+
+Processo 26:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 2612:
+  Total de memória alocada: 515616768 bytes
+  Páginas de memória:
+    Total: 125883
+    Código: 7416
+    Heap: 5074
+    Stack: 8
+
+Processo 268:
+  Total de memória alocada: 249630720 bytes
+  Páginas de memória:
+    Total: 60945
+    Código: 23802
+    Heap: 23385
+    Stack: 25
+
+Processo 27:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 27754:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 28:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 28921:
+  Total de memória alocada: 2799403008 bytes
+  Páginas de memória:
+    Total: 683448
+    Código: 46597
+    Heap: 24094
+    Stack: 151
+
+Processo 29:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 3:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 3067:
+  Total de memória alocada: 737988608 bytes
+  Páginas de memória:
+    Total: 180173
+    Código: 4703
+    Heap: 1929
+    Stack: 3702
+
+Processo 31:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 319:
+  Total de memória alocada: 28590080 bytes
+  Páginas de memória:
+    Total: 6980
+    Código: 1805
+    Heap: 1063
+    Stack: 182
+
+Processo 31906:
+  Total de memória alocada: 580829184 bytes
+  Páginas de memória:
+    Total: 141804
+    Código: 12430
+    Heap: 8822
+    Stack: 37
+
+Processo 31924:
+  Total de memória alocada: 20967424 bytes
+  Páginas de memória:
+    Total: 5119
+    Código: 1389
+    Heap: 909
+    Stack: 231
+
+Processo 32:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 32310:
+  Total de memória alocada: 45175214080 bytes
+  Páginas de memória:
+    Total: 11029105
+    Código: 273820
+    Heap: 10916
+    Stack: 6817
+
+Processo 32312:
+  Total de memória alocada: 1330671616 bytes
+  Páginas de memória:
+    Total: 324871
+    Código: 14753
+    Heap: 8664
+    Stack: 6817
+
+Processo 33:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 34:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 35:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 35639:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 35795:
+  Total de memória alocada: 3022835712 bytes
+  Páginas de memória:
+    Total: 737997
+    Código: 82799
+    Heap: 27095
+    Stack: 151
+
+Processo 363:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 37:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 38:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 38714:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 38817:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 39:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 4:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 40:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 40402:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 407:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 40778:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 40808:
+  Total de memória alocada: 2597752832 bytes
+  Páginas de memória:
+    Total: 634217
+    Código: 36161
+    Heap: 22926
+    Stack: 151
+
+Processo 40851:
+  Total de memória alocada: 2667327488 bytes
+  Páginas de memória:
+    Total: 651203
+    Código: 42819
+    Heap: 24352
+    Stack: 151
+
+Processo 40899:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 40925:
+  Total de memória alocada: 2462945280 bytes
+  Páginas de memória:
+    Total: 601305
+    Código: 15384
+    Heap: 12348
+    Stack: 151
+
+Processo 41:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 414:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 41451:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 41485:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 415:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 41512:
+  Total de memória alocada: 2462941184 bytes
+  Páginas de memória:
+    Total: 601304
+    Código: 15288
+    Heap: 12275
+    Stack: 151
+
+Processo 41682:
+  Total de memória alocada: 2462949376 bytes
+  Páginas de memória:
+    Total: 601306
+    Código: 15619
+    Heap: 12584
+    Stack: 151
+
+Processo 42218:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 42225:
+  Total de memória alocada: 1988739072 bytes
+  Páginas de memória:
+    Total: 485532
+    Código: 41472
+    Heap: 23666
+    Stack: 185
+
+Processo 42360:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 42404:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 42872:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 42873:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 42874:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 43:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 43758:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 43760:
+  Total de memória alocada: 2801664 bytes
+  Páginas de memória:
+    Total: 684
+    Código: 242
+    Heap: 217
+    Stack: 20
+
+Processo 43761:
+  Total de memória alocada: 21721088 bytes
+  Páginas de memória:
+    Total: 5303
+    Código: 393
+    Heap: 328
+    Stack: 12
+
+Processo 45:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 4540:
+  Total de memória alocada: 406999040 bytes
+  Páginas de memória:
+    Total: 99365
+    Código: 2079
+    Heap: 1786
+    Stack: 4
+
+Processo 4554:
+  Total de memória alocada: 333000704 bytes
+  Páginas de memória:
+    Total: 81299
+    Código: 1991
+    Heap: 1748
+    Stack: 4
+
+Processo 46:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 47:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 473:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 474:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 48:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 49:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 5:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 50:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 506:
+  Total de memória alocada: 16392192 bytes
+  Páginas de memória:
+    Total: 4002
+    Código: 1768
+    Heap: 1566
+    Stack: 6
+
+Processo 51:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 511:
+  Total de memória alocada: 19804160 bytes
+  Páginas de memória:
+    Total: 4835
+    Código: 2676
+    Heap: 2289
+    Stack: 81
+
+Processo 512:
+  Total de memória alocada: 91648000 bytes
+  Páginas de memória:
+    Total: 22375
+    Código: 1619
+    Heap: 1418
+    Stack: 7
+
+Processo 54:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 55:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 56:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 57:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 58:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 59:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 6:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 60:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 61:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 617:
+  Total de memória alocada: 254926848 bytes
+  Páginas de memória:
+    Total: 62238
+    Código: 1915
+    Heap: 1678
+    Stack: 21
+
+Processo 62:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 620:
+  Total de memória alocada: 8564736 bytes
+  Páginas de memória:
+    Total: 2091
+    Código: 967
+    Heap: 842
+    Stack: 20
+
+Processo 621:
+  Total de memória alocada: 18452480 bytes
+  Páginas de memória:
+    Total: 4505
+    Código: 715
+    Heap: 654
+    Stack: 7
+
+Processo 622:
+  Total de memória alocada: 12242944 bytes
+  Páginas de memória:
+    Total: 2989
+    Código: 1767
+    Heap: 1069
+    Stack: 35
+
+Processo 630:
+  Total de memória alocada: 84713472 bytes
+  Páginas de memória:
+    Total: 20682
+    Código: 903
+    Heap: 818
+    Stack: 10
+
+Processo 645:
+  Total de memória alocada: 258314240 bytes
+  Páginas de memória:
+    Total: 63065
+    Código: 2807
+    Heap: 1754
+    Stack: 15
+
+Processo 650:
+  Total de memória alocada: 254484480 bytes
+  Páginas de memória:
+    Total: 62130
+    Código: 1619
+    Heap: 1478
+    Stack: 7
+
+Processo 651:
+  Total de memória alocada: 227569664 bytes
+  Páginas de memória:
+    Total: 55559
+    Código: 1210
+    Heap: 905
+    Stack: 108
+
+Processo 656:
+  Total de memória alocada: 250699776 bytes
+  Páginas de memória:
+    Total: 61206
+    Código: 1627
+    Heap: 1477
+    Stack: 2
+
+Processo 657:
+  Total de memória alocada: 50446336 bytes
+  Páginas de memória:
+    Total: 12316
+    Código: 2005
+    Heap: 1698
+    Stack: 35
+
+Processo 658:
+  Total de memória alocada: 216346624 bytes
+  Páginas de memória:
+    Total: 52819
+    Código: 2082
+    Heap: 1887
+    Stack: 87
+
+Processo 660:
+  Total de memória alocada: 402006016 bytes
+  Páginas de memória:
+    Total: 98146
+    Código: 3150
+    Heap: 2274
+    Stack: 70
+
+Processo 667:
+  Total de memória alocada: 8372224 bytes
+  Páginas de memória:
+    Total: 2044
+    Código: 90
+    Heap: 0
+    Stack: 20
+
+Processo 68:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 713:
+  Total de memória alocada: 276930560 bytes
+  Páginas de memória:
+    Total: 67610
+    Código: 4428
+    Heap: 3564
+    Stack: 550
+
+Processo 714:
+  Total de memória alocada: 17559552 bytes
+  Páginas de memória:
+    Total: 4287
+    Código: 2509
+    Heap: 2135
+    Stack: 564
+
+Processo 724:
+  Total de memória alocada: 324558848 bytes
+  Páginas de memória:
+    Total: 79238
+    Código: 2379
+    Heap: 1961
+    Stack: 286
+
+Processo 74:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 75:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 753:
+  Total de memória alocada: 46850048 bytes
+  Páginas de memória:
+    Total: 11438
+    Código: 2715
+    Heap: 2306
+    Stack: 81
+
+Processo 755:
+  Total de memória alocada: 296108032 bytes
+  Páginas de memória:
+    Total: 72292
+    Código: 11451
+    Heap: 3069
+    Stack: 681
+
+Processo 759:
+  Total de memória alocada: 123346944 bytes
+  Páginas de memória:
+    Total: 30114
+    Código: 4805
+    Heap: 3007
+    Stack: 681
+
+Processo 76:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 775:
+  Total de memória alocada: 255672320 bytes
+  Páginas de memória:
+    Total: 62420
+    Código: 2183
+    Heap: 1869
+    Stack: 50
+
+Processo 78:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 79:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 7900:
+  Total de memória alocada: 13296963584 bytes
+  Páginas de memória:
+    Total: 3246329
+    Código: 126821
+    Heap: 46969
+    Stack: 151
+
+Processo 8:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 80:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 8078:
+  Total de memória alocada: 231591936 bytes
+  Páginas de memória:
+    Total: 56541
+    Código: 7106
+    Heap: 6990
+    Stack: 151
+
+Processo 8209:
+  Total de memória alocada: 2503208960 bytes
+  Páginas de memória:
+    Total: 611135
+    Código: 22580
+    Heap: 17360
+    Stack: 151
+
+Processo 821:
+  Total de memória alocada: 23285760 bytes
+  Páginas de memória:
+    Total: 5685
+    Código: 390
+    Heap: 329
+    Stack: 7
+
+Processo 85:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 8514:
+  Total de memória alocada: 2635595776 bytes
+  Páginas de memória:
+    Total: 643456
+    Código: 33517
+    Heap: 23218
+    Stack: 151
+
+Processo 8553:
+  Total de memória alocada: 3058008064 bytes
+  Páginas de memória:
+    Total: 746584
+    Código: 98139
+    Heap: 26050
+    Stack: 151
+
+Processo 8565:
+  Total de memória alocada: 1743429632 bytes
+  Páginas de memória:
+    Total: 425642
+    Código: 30713
+    Heap: 18807
+    Stack: 46
+
+Processo 91:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 92:
+  Total de memória alocada: 0 bytes
+  Páginas de memória:
+    Total: 0
+    Código: 0
+    Heap: 0
+    Stack: 0
+
+Processo 9464:
+  Total de memória alocada: 3021918208 bytes
+  Páginas de memória:
+    Total: 737773
+    Código: 14355
+    Heap: 9869
+    Stack: 2
+
+Processo 9594:
+  Total de memória alocada: 890499072 bytes
+  Páginas de memória:
+    Total: 217407
+    Código: 9415
+    Heap: 5638
+    Stack: 82
+
+Processo 9691:
+  Total de memória alocada: 2483068928 bytes
+  Páginas de memória:
+    Total: 606218
+    Código: 19340
+    Heap: 17142
+    Stack: 151
+
+Processo 9787:
+  Total de memória alocada: 522235904 bytes
+  Páginas de memória:
+    Total: 127499
+    Código: 11730
+    Heap: 8826
+    Stack: 151
+
+Processo 9789:
+  Total de memória alocada: 236580864 bytes
+  Páginas de memória:
+    Total: 57759
+    Código: 8957
+    Heap: 6795
+    Stack: 151
+

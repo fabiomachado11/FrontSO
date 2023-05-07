@@ -1,0 +1,1 @@
+Threads: 1042 total,   3 em exec., 1039 dormindo,   0 parado,   0 zumbi

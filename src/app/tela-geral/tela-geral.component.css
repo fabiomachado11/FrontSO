@@ -1,0 +1,28 @@
+.tela{
+/* Fonte */
+position: absolute;
+width: 232px;
+height: 59px;
+left: 52px;
+top: 22px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 0px;
+
+color: #000000;
+
+
+
+/* Fundo */
+position: absolute;
+width: 100%;
+height: 120%;
+left: 0;
+top: 0;
+
+background: #FF9153;
+}
+

@@ -1,0 +1,24 @@
+.disco{
+position: absolute;
+width: 228.82px;
+height: 59px;
+left: 810px;
+top: 100px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #000000;
+
+position: absolute;
+width: 576px;
+height: 200px;
+left: 782px;
+top: 86px;
+
+background: #9F4F21;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}

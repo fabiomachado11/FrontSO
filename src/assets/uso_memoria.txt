@@ -1,0 +1,4 @@
+ Percentual de Uso da Memória: 52.18%
+ Percentual de Memória Livre: 5.04%
+ Quantidade de Memória Física (RAM): 7814 MB
+ Quantidade de Memória Virtual: 394 MB

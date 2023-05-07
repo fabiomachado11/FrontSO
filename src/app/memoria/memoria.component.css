@@ -1,0 +1,29 @@
+.memoria{
+
+position: absolute;
+width: 200px;
+height: 36.33px;
+left: 59.49px;
+top: 700.13px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 200px;
+font-size: 20px;
+line-height: 20px;
+overflow: auto;
+
+color: #000000;
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 698px;
+height: 200px;
+left: 782px;
+top: 770px;
+
+background: #9F4F21;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
