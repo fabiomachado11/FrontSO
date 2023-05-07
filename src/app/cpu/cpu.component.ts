@@ -19,15 +19,19 @@ export class CpuComponent implements OnInit {
 
     setInterval(() => {
       this.loadFileContent();
-    }, 5000);
+    }, 3000);//atualiza os conteudos 
+    setTimeout(() => {
+      location.reload();
+    }, 10000); //recarrega a pagina para atualizar o grafico
+    
   }
 
   public loadFileContent() {
     this.http.get('/assets/cpu-info.txt', { responseType: 'text' }).subscribe(response => {
-      // convert the response string to an array of numbers
+     //transforma a string para numeros
       const data = response.trim().split(',').map(Number);
 
-      // create a new chart
+      //cria o grafico
       const chart = new Chart('canvas', {
         type: 'pie',
         data: {
